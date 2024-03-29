@@ -240,3 +240,6 @@ ADAM==
 - What do you think he makes?
 BARRY:
 - Not enough.
+
+
+And they lived happily ever after.
